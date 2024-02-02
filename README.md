@@ -1,7 +1,7 @@
-# snowgoose 
-### a discord bot, for fl0m
+# ping bot
+### a discord bot, for ping
 ----------
-**snowgoose requres a postgres db to work**
+**sphaxa helped a lot**
 
 you'll need to uncomment the dotenv imports if you want to use dotenv, heres an example:
 ```
@@ -13,7 +13,7 @@ DATABASE_URL=
 just needs your discord bot creds, guild id, and database connection string
 
 
-**snowgoose uses discordjs**
+**ping bot uses discordjs**
 so just
 ```
 npm i
